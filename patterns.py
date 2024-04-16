@@ -71,4 +71,4 @@ def sphere(n):
 
 
 # RUNNING SPHERE FOR NOW
-view(sphere(argv[1]))
+view(sphere(int(argv[1])))
